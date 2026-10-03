@@ -4,7 +4,7 @@
 
 ## About Me  
 Solution Architect | AI-Powered Solutions| Azure Cloud & Cognitive Services|
-Results-oriented Senior Consultant III / Azure AI Cognitive Lead with 13+ years of experience designing and delivering scalable, AI-driven solutions across enterprise domains. Proven expertise in Python, Azure AI, .NET Core, Open AI, and full-stack architectures with a strong focus on automation, document intelligence, and cloud-native applications. Adept at leading cross-functional teams, owning end-to-end architecture, and driving innovation through modern DevOps, Agile, and microservices principles. Committed to creating resilient, user-centric platforms that transform business operations.  
+Results-oriented Senior Consultant III / Azure AI Cognitive Lead with 14+ years of experience designing and delivering scalable, AI-driven solutions across enterprise domains. Proven expertise in Python, Azure AI, .NET Core, Open AI, and full-stack architectures with a strong focus on automation, document intelligence, and cloud-native applications. Adept at leading cross-functional teams, owning end-to-end architecture, and driving innovation through modern DevOps, Agile, and microservices principles. Committed to creating resilient, user-centric platforms that transform business operations.  
 
 ## Core Skills  
 - **Programming Languages:** Gen AI, Python, C#, ASP.NET MVC, .NET Core, TypeScript, React.js, Node.js, SQL, PL/SQL.  
